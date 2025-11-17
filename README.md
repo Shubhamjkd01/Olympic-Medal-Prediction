@@ -3,7 +3,7 @@
 
 This project predicts how many medals a country may win in the Olympics using machine learning. 
 As a beginner in AI/ML, I worked with historical Olympic data and followed the complete ML workflow—starting from forming a hypothesis, exploring the data, selecting features, training a model, and finally evaluating it. 
-This project helped me understand the basics of building an end-to-end ML project using Python and Google Colab.
+This project helped me understand the basics of building an end-to-end ML project using Python and Google Colab..
 
 ---
 

@@ -16,11 +16,10 @@ These steps are helpful for solving almost any ML problem:
 1. **Form a hypothesis**  
 2. **Explore the dataset**  
 3. **Reshape the data (if necessary)** to match the prediction target  
-4. **Clean the data** for ML (missing values, removing unused columns, etc.)  
-5. **Pick an error metric** (MAE, R² score, etc.)  
-6. **Split the dataset** into training and testing sets  
-7. **Train a machine learning model** (Linear Regression in this project)  
-8. **Evaluate the model** using appropriate metrics  
+4. **Clean the data** for ML (missing values, removing unused columns, etc.)    
+5. **Split the dataset** into training and testing sets  
+6. **Train a machine learning model** (Linear Regression in this project)  
+7. **Evaluate the model** using appropriate metrics  
 
 ---
 

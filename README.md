@@ -19,6 +19,8 @@ These steps are helpful for solving almost any ML problem:
 4. **Clean the data** for ML (missing values, removing unused columns, etc.)    
 5. **Split the dataset** into training and testing sets  
 6. **Train a machine learning model** (Linear Regression in this project)  
+
+
 7. **Evaluate the model** using appropriate metrics  
 
 ---
